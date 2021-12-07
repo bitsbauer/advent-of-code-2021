@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/days%20completed-0-red)
-![](https://img.shields.io/badge/stars%20⭐-0-yellow)
+![](https://img.shields.io/badge/days%20completed-7-red)
+![](https://img.shields.io/badge/stars%20⭐-14-yellow)
 
 # advent-of-code-2021
 Some of my solutions from Advent of Code 2021 
