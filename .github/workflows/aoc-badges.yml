@@ -16,8 +16,8 @@ jobs:
           
       - uses: joblo2213/aoc-badges-action@v3
         with:
-          userid: 692358                         # your user id, see setup on how to obtain
-          session: ${{ secrets.SESSION }}        # secret containing session code, see setup on how to obtain
+          userid: 1015534                        # your user id, see setup on how to obtain
+          session: ${{ secrets.AOC_SESSION }}    # secret containing session code, see setup on how to obtain
           year: 2021
           leaderboard: https://adventofcode.com/2021/leaderboard/private/view/692358.json
           
