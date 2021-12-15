@@ -9,7 +9,7 @@ namespace AoC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Advent of Code 2021 - Day 14: Transparent Origami (https://adventofcode.com/2021/day/14)");
+            Console.WriteLine("Advent of Code 2021 - Day 14: Extended Polymerization (https://adventofcode.com/2021/day/14)");
             string inputFile = args.Length > 0 ? args[0] : "input.txt";
     
             Console.WriteLine("Part 1: What do you get if you take the quantity of the most common element and subtract the quantity of the least common element? (10 steps)");
